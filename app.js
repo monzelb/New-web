@@ -1,4 +1,4 @@
-function blahBlah(){
+function blah(){
 	if(x>5){
 		do stuff!!;
 	}
